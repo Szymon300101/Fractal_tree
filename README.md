@@ -9,6 +9,9 @@ do przestrzeni 3D. Zamiast dwóch, z każdego rozgałęźenia wychodzi
 X i Y, i cztery po jego ukosach).  
 Program działa rekurencjnie.  
   
+Opis skrótów klawiszowych znajduje się w kodzie.  
+(zmiana kąta nachylenia, skalowania kolejnych gałezi itp.)  
+  
 Przykłady drzew:
 ![](pic_01.jpg)  
 ![](pic_02.jpg)  
